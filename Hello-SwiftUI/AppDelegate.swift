@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Hello-SwiftUI
-//
-//  Created by Naila Sheikh on 6/6/19.
-//  Copyright © 2019 Naila Sheikh. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
